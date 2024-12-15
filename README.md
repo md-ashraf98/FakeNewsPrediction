@@ -1,4 +1,4 @@
-# FakeNewsPredictionUsingMachineLearning
+# FakeNews Prediction Using Machine Learning
 Fake news prediction refers to the process of using various techniques and models to identify and classify news articles or information that are intentionally fabricated or misleading. It involves analyzing the content, context, and sources of the news in order to assess its credibility and truthfulness.
 The goal of fake news prediction is to develop algorithms and systems that can effectively distinguish between genuine and fake news, providing users with a reliable means of determining the accuracy of the information they encounter online. This is particularly important in today's digital age, where the rapid spread of information through social media and online platforms has made it increasingly challenging to differentiate between real and fake news.
 Fake news prediction typically involves the following steps:
